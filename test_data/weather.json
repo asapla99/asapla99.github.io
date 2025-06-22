@@ -1,0 +1,63 @@
+city: orlando {
+    "FeelsLikeC": "39",
+    "FeelsLikeF": "102",
+    "cloudcover": "50",
+    "humidity": "51",
+    "localObsDateTime": "2025-06-21 05:06 PM",
+    "observation_time": "09:06 PM",
+    "precipInches": "0.0",
+    "precipMM": "0.0",
+    "pressure": "1019",
+    "pressureInches": "30",
+    "temp_C": "34",
+    "temp_F": "93",
+    "uvIndex": "3",
+    "visibility": "16",
+    "visibilityMiles": "9",
+    "weatherCode": "116",
+    "weatherDesc": [
+        {
+            "value": "Partly cloudy"
+        }
+    ],
+    "weatherIconUrl": [
+        {
+            "value": ""
+        }
+    ],
+    "winddir16Point": "ESE",
+    "winddirDegree": "104",
+    "windspeedKmph": "13",
+    "windspeedMiles": "8",
+    "city": "",
+    "moon_illumination": "26",
+    "moon_phase": "Waning Crescent",
+    "moonrise": "02:51 AM",
+    "moonset": "04:37 PM",
+    "sunrise": "06:28 AM",
+    "sunset": "08:26 PM",
+    "date": "2025-06-21",
+    "areaName": [
+        {
+            "value": "Orlando"
+        }
+    ],
+    "country": [
+        {
+            "value": "United States of America"
+        }
+    ],
+    "latitude": "28.538",
+    "longitude": "-81.379",
+    "population": "207970",
+    "region": [
+        {
+            "value": "Florida"
+        }
+    ],
+    "weatherUrl": [
+        {
+            "value": ""
+        }
+    ]
+}
